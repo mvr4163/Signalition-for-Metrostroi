@@ -1,6 +1,6 @@
 # Signalition-for-Metrostroi
 
-Здесь находятся все мои работы по сигнализации для игры Garry's mod, дополнения Metrostroi Subway Simulator.
+Здесь находятся все мои работы по сигнализации для игры Garry's Mod, дополнения Metrostroi Subway Simulator.
 
 Список следующий:
 1) _gm_metro_jar_crossline_ (Чуть-чуть переделана)
