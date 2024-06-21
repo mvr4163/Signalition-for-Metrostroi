@@ -1,0 +1,2884 @@
+
+
+
+{
+	"1": 
+	{
+		"Approve0": true,
+		"RouteNumberSetup": "",
+		"LensesStr": "RY-YG",
+		"RouteNumber": "1",
+		"Class": "gmod_track_signal",
+		"IsolateSwitches": false,
+		"SignalType": 0,
+		"Name": "PE3",
+		"ARSOnly": false,
+		"Angles": "{0 90 0}",
+		"Pos": "[-3556.0015 13676.1934 -15310.1055]",
+		"Routes": 
+		[
+			
+			{
+				"Emer": false,
+				"NextSignal": "PE3R",
+				"ARSCodes": "04",
+				"Manual": false,
+				"EnRou": true,
+				"Lights": "1-13-42-42",
+				"Switches": "",
+				"RouteName": "",
+				"Repeater": false
+			}
+		],
+		"NonAutoStop": false,
+		"Left": false
+	},
+	"2": 
+	{
+		"Approve0": true,
+		"RouteNumberSetup": "",
+		"LensesStr": "RGY",
+		"RouteNumber": "1",
+		"Class": "gmod_track_signal",
+		"IsolateSwitches": false,
+		"SignalType": 0,
+		"Name": "PE3R",
+		"ARSOnly": true,
+		"Angles": "{0 90 0}",
+		"Pos": "[-2183.5012 13675.8926 -15310.1055]",
+		"Routes": 
+		[
+			
+			{
+				"Emer": false,
+				"NextSignal": "PE5",
+				"ARSCodes": "04",
+				"Manual": false,
+				"EnRou": true,
+				"Lights": "1-12-2-23-3",
+				"Switches": "",
+				"RouteName": "",
+				"Repeater": false
+			}
+		],
+		"NonAutoStop": true,
+		"Left": true
+	},
+	"3": 
+	{
+		"Approve0": true,
+		"RouteNumberSetup": "",
+		"LensesStr": "RY-YG",
+		"RouteNumber": "1",
+		"Class": "gmod_track_signal",
+		"IsolateSwitches": true,
+		"SignalType": 0,
+		"Name": "PE5",
+		"ARSOnly": false,
+		"Angles": "{0 90 0}",
+		"Pos": "[-238.1371 13675.5938 -15310.1055]",
+		"Routes": 
+		[
+			
+			{
+				"Emer": false,
+				"NextSignal": "7",
+				"ARSCodes": "04",
+				"Repeater": false,
+				"EnRou": true,
+				"Lights": "1-13-3-42-4",
+				"RouteName": "",
+				"Switches": "",
+				"Manual": false
+			}
+		],
+		"NonAutoStop": false,
+		"Left": false
+	},
+	"4": 
+	{
+		"Approve0": true,
+		"RouteNumberSetup": "",
+		"LensesStr": "RY-YG",
+		"RouteNumber": "1",
+		"Class": "gmod_track_signal",
+		"IsolateSwitches": false,
+		"SignalType": 0,
+		"Name": "7",
+		"ARSOnly": false,
+		"Angles": "{359.5328 88.4751 0}",
+		"Pos": "[6090.8809 14418.2119 -15310.584]",
+		"Routes": 
+		[
+			
+			{
+				"Emer": false,
+				"NextSignal": "9",
+				"ARSCodes": "04",
+				"Repeater": false,
+				"EnRou": true,
+				"Lights": "1-13-3-42-4",
+				"RouteName": "",
+				"Switches": "",
+				"Manual": false
+			}
+		],
+		"NonAutoStop": false,
+		"Left": false
+	},
+	"5": 
+	{
+		"Approve0": true,
+		"RouteNumberSetup": "",
+		"LensesStr": "RY-YG",
+		"RouteNumber": "1",
+		"Class": "gmod_track_signal",
+		"IsolateSwitches": false,
+		"SignalType": 0,
+		"Name": "9",
+		"ARSOnly": false,
+		"Angles": "{0 0 0}",
+		"Pos": "[13797.5938 6209.6006 -15309.7061]",
+		"Routes": 
+		[
+			
+			{
+				"Emer": false,
+				"NextSignal": "11",
+				"ARSCodes": "07",
+				"Manual": false,
+				"EnRou": true,
+				"Lights": "1-13-2-24-4",
+				"RouteName": "",
+				"Switches": "",
+				"Repeater": false
+			}
+		],
+		"NonAutoStop": false,
+		"Left": false
+	},
+	"6": 
+	{
+		"Approve0": true,
+		"RouteNumberSetup": "",
+		"LensesStr": "RY-YG",
+		"RouteNumber": "1",
+		"Class": "gmod_track_signal",
+		"IsolateSwitches": false,
+		"SignalType": 0,
+		"Name": "11",
+		"ARSOnly": false,
+		"Angles": "{0 0 0}",
+		"Pos": "[13798.1934 -4216.9102 -15309.1055]",
+		"Routes": 
+		[
+			
+			{
+				"Emer": false,
+				"NextSignal": "13",
+				"ARSCodes": "07",
+				"Repeater": false,
+				"EnRou": true,
+				"Lights": "1-13-2-24-4",
+				"Switches": "",
+				"RouteName": "",
+				"Manual": false
+			}
+		],
+		"NonAutoStop": false,
+		"Left": false
+	},
+	"7": 
+	{
+		"Approve0": true,
+		"RouteNumberSetup": "",
+		"LensesStr": "RY-YG",
+		"RouteNumber": "1",
+		"Class": "gmod_track_signal",
+		"IsolateSwitches": false,
+		"SignalType": 0,
+		"Name": "13",
+		"ARSOnly": false,
+		"Angles": "{359.3735 357.9274 0}",
+		"Pos": "[13792.8125 -9242.0176 -15311.9033]",
+		"Routes": 
+		[
+			
+			{
+				"Emer": false,
+				"NextSignal": "15",
+				"ARSCodes": "064",
+				"Repeater": false,
+				"EnRou": true,
+				"Lights": "1-13-2-24-4",
+				"Switches": "",
+				"RouteName": "",
+				"Manual": false
+			}
+		],
+		"NonAutoStop": false,
+		"Left": false
+	},
+	"8": 
+	{
+		"Approve0": true,
+		"RouteNumberSetup": "",
+		"LensesStr": "RY-YG",
+		"RouteNumber": "1",
+		"Class": "gmod_track_signal",
+		"IsolateSwitches": false,
+		"SignalType": 0,
+		"Name": "15",
+		"ARSOnly": false,
+		"Angles": "{0 270 0}",
+		"Pos": "[10099.5 -11790.207 -15309.1055]",
+		"Routes": 
+		[
+			
+			{
+				"Emer": false,
+				"NextSignal": "15R",
+				"ARSCodes": "04",
+				"Manual": false,
+				"EnRou": true,
+				"Lights": "1-13-2-24-24",
+				"RouteName": "",
+				"Switches": "",
+				"Repeater": false
+			}
+		],
+		"NonAutoStop": false,
+		"Left": false
+	},
+	"9": 
+	{
+		"Approve0": true,
+		"RouteNumberSetup": "",
+		"LensesStr": "RGY",
+		"RouteNumber": "1",
+		"Class": "gmod_track_signal",
+		"IsolateSwitches": false,
+		"SignalType": 0,
+		"Name": "15R",
+		"ARSOnly": true,
+		"Angles": "{0 270 0}",
+		"Pos": "[7982.5767 -11790.207 -15309.1055]",
+		"Routes": 
+		[
+			
+			{
+				"Emer": false,
+				"NextSignal": "17",
+				"ARSCodes": "04",
+				"Manual": false,
+				"EnRou": true,
+				"Lights": "",
+				"RouteName": "",
+				"Switches": "",
+				"Repeater": false
+			}
+		],
+		"NonAutoStop": true,
+		"Left": false
+	},
+	"10": 
+	{
+		"Approve0": false,
+		"RouteNumberSetup": "",
+		"LensesStr": "BW-RW",
+		"RouteNumber": "1",
+		"Class": "gmod_track_signal",
+		"IsolateSwitches": false,
+		"SignalType": 0,
+		"Name": "PE1A",
+		"ARSOnly": true,
+		"Angles": "{0 79.9224 0}",
+		"Pos": "[-7173.3281 13948.7285 -15310.2061]",
+		"Routes": 
+		[
+			
+			{
+				"Emer": false,
+				"NextSignal": "PE3",
+				"ARSCodes": "04",
+				"Manual": false,
+				"EnRou": true,
+				"Lights": "3-1",
+				"RouteName": "",
+				"Switches": "3-",
+				"Repeater": false
+			}
+		],
+		"NonAutoStop": true,
+		"Left": false
+	},
+	"11": 
+	{
+		"Approve0": true,
+		"RouteNumberSetup": "",
+		"LensesStr": "RY-YG",
+		"RouteNumber": "1",
+		"Class": "gmod_track_signal",
+		"IsolateSwitches": false,
+		"SignalType": 0,
+		"Name": "19",
+		"ARSOnly": false,
+		"Angles": "{0 270 0}",
+		"Pos": "[-628.1964 -11789.6934 -15308.8057]",
+		"Routes": 
+		[
+			
+			{
+				"Emer": false,
+				"NextSignal": "21",
+				"ARSCodes": "08",
+				"Manual": false,
+				"EnRou": true,
+				"Lights": "1-13-2-24-4",
+				"RouteName": "",
+				"Switches": "",
+				"Repeater": false
+			}
+		],
+		"NonAutoStop": false,
+		"Left": false
+	},
+	"12": 
+	{
+		"Approve0": true,
+		"RouteNumberSetup": "",
+		"LensesStr": "RY-YG",
+		"RouteNumber": "1",
+		"Class": "gmod_track_signal",
+		"IsolateSwitches": false,
+		"SignalType": 0,
+		"Name": "21",
+		"ARSOnly": false,
+		"Angles": "{358.6606 263.8138 0}",
+		"Pos": "[-8042.7002 -11698.6865 -15311.5537]",
+		"Routes": 
+		[
+			
+			{
+				"Emer": false,
+				"NextSignal": "23",
+				"ARSCodes": "08",
+				"Manual": false,
+				"EnRou": true,
+				"Lights": "1-13-2-24-4",
+				"RouteName": "",
+				"Switches": "",
+				"Repeater": false
+			}
+		],
+		"NonAutoStop": false,
+		"Left": true
+	},
+	"13": 
+	{
+		"Approve0": true,
+		"RouteNumberSetup": "",
+		"LensesStr": "RY-YG",
+		"RouteNumber": "1",
+		"Class": "gmod_track_signal",
+		"IsolateSwitches": false,
+		"SignalType": 0,
+		"Name": "23",
+		"ARSOnly": false,
+		"Angles": "{0.0005 180.4942 0}",
+		"Pos": "[-14457.6289 -3899.6086 -15308.7188]",
+		"Routes": 
+		[
+			
+			{
+				"Emer": false,
+				"NextSignal": "25",
+				"ARSCodes": "08",
+				"Repeater": false,
+				"EnRou": true,
+				"Lights": "1-13-2-24-4",
+				"Switches": "",
+				"RouteName": "",
+				"Manual": false
+			}
+		],
+		"NonAutoStop": false,
+		"Left": false
+	},
+	"14": 
+	{
+		"Approve0": true,
+		"RouteNumberSetup": "",
+		"LensesStr": "RY-YG",
+		"RouteNumber": "1",
+		"Class": "gmod_track_signal",
+		"IsolateSwitches": false,
+		"SignalType": 0,
+		"Name": "25",
+		"ARSOnly": false,
+		"Angles": "{359.5328 178.4751 0}",
+		"Pos": "[-14456.3262 7764.3633 -14264.3887]",
+		"Routes": 
+		[
+			
+			{
+				"Emer": false,
+				"NextSignal": "27",
+				"ARSCodes": "08",
+				"Manual": false,
+				"EnRou": true,
+				"Lights": "1-13-2-24-4",
+				"RouteName": "",
+				"Switches": "",
+				"Repeater": false
+			}
+		],
+		"NonAutoStop": false,
+		"Left": false
+	},
+	"15": 
+	{
+		"Approve0": true,
+		"RouteNumberSetup": "",
+		"LensesStr": "RY-YG",
+		"RouteNumber": "1",
+		"Class": "gmod_track_signal",
+		"IsolateSwitches": false,
+		"SignalType": 0,
+		"Name": "27",
+		"ARSOnly": false,
+		"Angles": "{0 90 0}",
+		"Pos": "[-6140.8853 15517.9941 -14264.0059]",
+		"Routes": 
+		[
+			
+			{
+				"Emer": false,
+				"NextSignal": "29",
+				"ARSCodes": "08",
+				"Manual": false,
+				"EnRou": true,
+				"Lights": "1-13-2-24-4",
+				"RouteName": "",
+				"Switches": "",
+				"Repeater": false
+			}
+		],
+		"NonAutoStop": false,
+		"Left": false
+	},
+	"16": 
+	{
+		"Approve0": true,
+		"RouteNumberSetup": "",
+		"LensesStr": "RY-YG",
+		"RouteNumber": "1",
+		"Class": "gmod_track_signal",
+		"IsolateSwitches": false,
+		"SignalType": 0,
+		"Name": "29",
+		"ARSOnly": false,
+		"Angles": "{359.7632 89.4941 0}",
+		"Pos": "[3896.2175 15518.2148 -14264.4395]",
+		"Routes": 
+		[
+			
+			{
+				"Emer": false,
+				"NextSignal": "31",
+				"ARSCodes": "08",
+				"Manual": false,
+				"EnRou": true,
+				"Lights": "1-13-2-24-4",
+				"RouteName": "",
+				"Switches": "",
+				"Repeater": false
+			}
+		],
+		"NonAutoStop": false,
+		"Left": false
+	},
+	"17": 
+	{
+		"Approve0": true,
+		"RouteNumberSetup": "",
+		"LensesStr": "RY-YG",
+		"RouteNumber": "1",
+		"Class": "gmod_track_signal",
+		"IsolateSwitches": false,
+		"SignalType": 2,
+		"Name": "31",
+		"ARSOnly": false,
+		"Angles": "{0 0 0}",
+		"Pos": "[11872.0938 6694.7603 -14264.0059]",
+		"Routes": 
+		[
+			
+			{
+				"Emer": false,
+				"NextSignal": "33",
+				"ARSCodes": "08",
+				"Repeater": false,
+				"EnRou": true,
+				"Lights": "1-13-2-24-4",
+				"Switches": "",
+				"RouteName": "",
+				"Manual": false
+			}
+		],
+		"NonAutoStop": false,
+		"Left": false
+	},
+	"18": 
+	{
+		"Approve0": true,
+		"RouteNumberSetup": "",
+		"LensesStr": "RY-YG",
+		"RouteNumber": "1",
+		"Class": "gmod_track_signal",
+		"IsolateSwitches": false,
+		"SignalType": 1,
+		"Name": "33",
+		"ARSOnly": false,
+		"Angles": "{0 0 0}",
+		"Pos": "[11872.0938 3598.9849 -14263.9063]",
+		"Routes": 
+		[
+			
+			{
+				"Emer": false,
+				"NextSignal": "LE35",
+				"ARSCodes": "078",
+				"Manual": false,
+				"EnRou": true,
+				"Lights": "1-13-2-24-4",
+				"RouteName": "",
+				"Switches": "",
+				"Repeater": false
+			}
+		],
+		"NonAutoStop": false,
+		"Left": false
+	},
+	"19": 
+	{
+		"Approve0": true,
+		"RouteNumberSetup": "",
+		"LensesStr": "RY-YG",
+		"RouteNumber": "1",
+		"Class": "gmod_track_signal",
+		"IsolateSwitches": false,
+		"SignalType": 1,
+		"Name": "LE35",
+		"ARSOnly": false,
+		"Angles": "{0 0 0}",
+		"Pos": "[11872.1934 -2363.9258 -14263.9063]",
+		"Routes": 
+		[
+			
+			{
+				"Emer": false,
+				"NextSignal": "LE35R",
+				"ARSCodes": "067",
+				"Manual": false,
+				"EnRou": true,
+				"Lights": "1-13-2-24-24",
+				"RouteName": "",
+				"Switches": "",
+				"Repeater": false
+			}
+		],
+		"NonAutoStop": false,
+		"Left": false
+	},
+	"20": 
+	{
+		"Approve0": false,
+		"RouteNumberSetup": "",
+		"LensesStr": "BW-RW",
+		"RouteNumber": "2",
+		"Class": "gmod_track_signal",
+		"IsolateSwitches": false,
+		"SignalType": 0,
+		"Name": "PE1OP",
+		"ARSOnly": true,
+		"Angles": "{0 100.0385 0}",
+		"Pos": "[-7190.1787 14412.0527 -15310.2061]",
+		"Routes": 
+		[
+			
+			{
+				"Emer": false,
+				"NextSignal": "PEDOP",
+				"ARSCodes": "04",
+				"Manual": false,
+				"EnRou": true,
+				"Lights": "3-1",
+				"RouteName": "",
+				"Switches": "2-",
+				"Repeater": false
+			}
+		],
+		"NonAutoStop": true,
+		"Left": false
+	},
+	"21": 
+	{
+		"Approve0": true,
+		"RouteNumberSetup": "",
+		"LensesStr": "RGY",
+		"RouteNumber": "1",
+		"Class": "gmod_track_signal",
+		"IsolateSwitches": false,
+		"SignalType": 2,
+		"Name": "LE35R",
+		"ARSOnly": true,
+		"Angles": "{0 0 0}",
+		"Pos": "[11872.1953 -4168.8418 -14263.9063]",
+		"Routes": 
+		[
+			
+			{
+				"Emer": false,
+				"NextSignal": "*",
+				"ARSCodes": "046",
+				"Repeater": false,
+				"EnRou": true,
+				"Lights": "",
+				"Switches": "",
+				"RouteName": "",
+				"Manual": false
+			},
+			
+			{
+				"Emer": true,
+				"NextSignal": "*",
+				"ARSCodes": "046",
+				"Manual": false,
+				"EnRou": true,
+				"Lights": "1-12-2-23-3",
+				"RouteName": "SI-LE1",
+				"Repeater": false
+			}
+		],
+		"NonAutoStop": true,
+		"Left": false
+	},
+	"22": 
+	{
+		"Approve0": false,
+		"RouteNumberSetup": "",
+		"LensesStr": "WR",
+		"RouteNumber": "2",
+		"Class": "gmod_track_signal",
+		"IsolateSwitches": true,
+		"SignalType": 0,
+		"Name": "PEOP",
+		"ARSOnly": false,
+		"Angles": "{0 90 0}",
+		"Pos": "[-112.7235 14684.4014 -15310.2061]",
+		"Routes": 
+		[
+			
+			{
+				"Emer": false,
+				"NextSignal": "",
+				"ARSCodes": "0",
+				"Manual": false,
+				"EnRou": true,
+				"Lights": "2",
+				"RouteName": "",
+				"Switches": "",
+				"Repeater": false
+			}
+		],
+		"NonAutoStop": false,
+		"Left": true
+	},
+	"23": 
+	{
+		"Approve0": true,
+		"RouteNumberSetup": "",
+		"LensesStr": "WRW-M",
+		"RouteNumber": "1",
+		"Class": "gmod_track_signal",
+		"IsolateSwitches": false,
+		"SignalType": 2,
+		"Name": "LE37",
+		"ARSOnly": false,
+		"Angles": "{0 0 0}",
+		"Pos": "[11872.3926 -6095.9146 -14263.8057]",
+		"Routes": 
+		[
+			
+			{
+				"Emer": false,
+				"NextSignal": "LETUP1",
+				"ARSCodes": "04",
+				"Repeater": false,
+				"EnRou": true,
+				"Lights": "2-1",
+				"Switches": "4+,5+",
+				"RouteName": "",
+				"Manual": false
+			},
+			
+			{
+				"Emer": false,
+				"NextSignal": "LETUP2",
+				"ARSCodes": "04",
+				"Manual": false,
+				"EnRou": true,
+				"Lights": "2-1",
+				"RouteName": "",
+				"Switches": "4-,5-",
+				"Repeater": false
+			},
+			
+			{
+				"Emer": false,
+				"NextSignal": "LETUP2",
+				"ARSCodes": "04",
+				"Repeater": false,
+				"EnRou": true,
+				"Lights": "3-34-2",
+				"Manual": false,
+				"Switches": "4-,5-",
+				"RouteName": ""
+			}
+		],
+		"NonAutoStop": false,
+		"Left": false
+	},
+	"24": 
+	{
+		"Approve0": true,
+		"RouteNumberSetup": "",
+		"LensesStr": "WRW-M",
+		"RouteNumber": "1",
+		"Class": "gmod_track_signal",
+		"IsolateSwitches": false,
+		"SignalType": 2,
+		"Name": "LETUP1",
+		"ARSOnly": true,
+		"Angles": "{0.0049 358.0217 0}",
+		"Pos": "[11869.874 -12026.7998 -14264.1738]",
+		"Routes": 
+		[
+			
+			{
+				"Emer": false,
+				"NextSignal": "*",
+				"ARSCodes": "04",
+				"Repeater": false,
+				"EnRou": true,
+				"Lights": "2-1",
+				"Switches": "",
+				"RouteName": "",
+				"Manual": false
+			}
+		],
+		"NonAutoStop": true,
+		"Left": true
+	},
+	"25": 
+	{
+		"Approve0": true,
+		"RouteNumberSetup": "",
+		"LensesStr": "WRW-W-M",
+		"RouteNumber": "D",
+		"Class": "gmod_track_signal",
+		"IsolateSwitches": false,
+		"SignalType": 1,
+		"Name": "ND",
+		"ARSOnly": false,
+		"Angles": "{0 225 0}",
+		"Pos": "[3169.9731 -13224.6846 -14263.7061]",
+		"Routes": 
+		[
+			
+			{
+				"Emer": false,
+				"NextSignal": "DEPO3",
+				"ARSCodes": "04",
+				"Repeater": false,
+				"EnRou": true,
+				"Lights": "2-1",
+				"Switches": "1/3-,1/6-,1/2+",
+				"RouteName": "depotd",
+				"Manual": false
+			},
+			
+			{
+				"Emer": false,
+				"NextSignal": "DEPO2",
+				"ARSCodes": "04",
+				"Repeater": false,
+				"EnRou": true,
+				"Lights": "2-1",
+				"Manual": false,
+				"RouteName": "depotd",
+				"Switches": "1/3+,1/5+,1/1+"
+			},
+			
+			{
+				"Emer": false,
+				"NextSignal": "DEPO1",
+				"ARSCodes": "04",
+				"Repeater": false,
+				"EnRou": true,
+				"Lights": "2-1",
+				"Manual": false,
+				"Switches": "1/3+,1/5+,1/1-",
+				"RouteName": ""
+			},
+			
+			{
+				"Emer": false,
+				"NextSignal": "DEPO4",
+				"ARSCodes": "04",
+				"Repeater": false,
+				"EnRou": true,
+				"Lights": "2-1",
+				"Manual": false,
+				"Switches": "1/3-,1/6-,1/2-",
+				"RouteName": ""
+			}
+		],
+		"NonAutoStop": false,
+		"Left": true
+	},
+	"26": 
+	{
+		"Approve0": true,
+		"RouteNumberSetup": "D",
+		"LensesStr": "WRW-W",
+		"RouteNumber": "D",
+		"Class": "gmod_track_signal",
+		"IsolateSwitches": false,
+		"SignalType": 0,
+		"Name": "D",
+		"ARSOnly": false,
+		"Angles": "{359.1282 358.017 0}",
+		"Pos": "[11867.8262 -12090.3223 -14264.8662]",
+		"Routes": 
+		[
+			
+			{
+				"Emer": false,
+				"NextSignal": "N",
+				"ARSCodes": "04",
+				"Repeater": false,
+				"EnRou": true,
+				"Switches": "",
+				"Lights": "2-1",
+				"RouteName": "depot",
+				"Manual": true
+			}
+		],
+		"NonAutoStop": false,
+		"Left": false
+	},
+	"27": 
+	{
+		"Approve0": true,
+		"RouteNumberSetup": "",
+		"LensesStr": "RY-YG",
+		"RouteNumber": "2",
+		"Class": "gmod_track_signal",
+		"IsolateSwitches": false,
+		"SignalType": 1,
+		"Name": "10",
+		"ARSOnly": false,
+		"Angles": "{0 180 0}",
+		"Pos": "[12136.6074 3890 -14263.9063]",
+		"Routes": 
+		[
+			
+			{
+				"Emer": false,
+				"NextSignal": "12",
+				"ARSCodes": "08",
+				"Manual": false,
+				"EnRou": true,
+				"Lights": "1-13-2-24-4",
+				"RouteName": "",
+				"Switches": "",
+				"Repeater": false
+			}
+		],
+		"NonAutoStop": false,
+		"Left": false
+	},
+	"28": 
+	{
+		"Approve0": true,
+		"RouteNumberSetup": "",
+		"LensesStr": "RY-YG",
+		"RouteNumber": "2",
+		"Class": "gmod_track_signal",
+		"IsolateSwitches": false,
+		"SignalType": 0,
+		"Name": "12",
+		"ARSOnly": false,
+		"Angles": "{0 270 0}",
+		"Pos": "[1830.8022 15782.707 -14264.1055]",
+		"Routes": 
+		[
+			
+			{
+				"Emer": false,
+				"NextSignal": "14",
+				"ARSCodes": "08",
+				"Repeater": false,
+				"EnRou": true,
+				"Lights": "1-13-2-24-4",
+				"Switches": "",
+				"RouteName": "",
+				"Manual": false
+			}
+		],
+		"NonAutoStop": false,
+		"Left": false
+	},
+	"29": 
+	{
+		"Approve0": true,
+		"RouteNumberSetup": "",
+		"LensesStr": "WRW-M",
+		"RouteNumber": "2",
+		"Class": "gmod_track_signal",
+		"IsolateSwitches": false,
+		"SignalType": 2,
+		"Name": "LETUP2",
+		"ARSOnly": true,
+		"Angles": "{359.9682 358.07 0}",
+		"Pos": "[12136.4971 -11992.1904 -14263.6123]",
+		"Routes": 
+		[
+			
+			{
+				"Emer": false,
+				"NextSignal": "*",
+				"ARSCodes": "04",
+				"Manual": false,
+				"EnRou": true,
+				"Lights": "2-1",
+				"RouteName": "",
+				"Switches": "",
+				"Repeater": false
+			}
+		],
+		"NonAutoStop": true,
+		"Left": false
+	},
+	"30": 
+	{
+		"Approve0": true,
+		"RouteNumberSetup": "",
+		"LensesStr": "RY-YG",
+		"RouteNumber": "2",
+		"Class": "gmod_track_signal",
+		"IsolateSwitches": false,
+		"SignalType": 0,
+		"Name": "16",
+		"ARSOnly": false,
+		"Angles": "{0.2362 1.5219 0}",
+		"Pos": "[-14719.21 -4073.5083 -15307.7754]",
+		"Routes": 
+		[
+			
+			{
+				"Emer": false,
+				"NextSignal": "18",
+				"ARSCodes": "08",
+				"Repeater": false,
+				"EnRou": true,
+				"Lights": "1-13-2-24-4",
+				"Switches": "",
+				"RouteName": "",
+				"Manual": false
+			}
+		],
+		"NonAutoStop": false,
+		"Left": false
+	},
+	"31": 
+	{
+		"Approve0": true,
+		"RouteNumberSetup": "",
+		"LensesStr": "RY-YG",
+		"RouteNumber": "2",
+		"Class": "gmod_track_signal",
+		"IsolateSwitches": false,
+		"SignalType": 0,
+		"Name": "18",
+		"ARSOnly": false,
+		"Angles": "{2.1107 78.0256 0}",
+		"Pos": "[-9100.7129 -11789.2119 -15303.7129]",
+		"Routes": 
+		[
+			
+			{
+				"Emer": false,
+				"NextSignal": "20",
+				"ARSCodes": "08",
+				"Repeater": false,
+				"EnRou": true,
+				"Lights": "1-13-2-24-4",
+				"Switches": "",
+				"RouteName": "",
+				"Manual": false
+			}
+		],
+		"NonAutoStop": false,
+		"Left": false
+	},
+	"32": 
+	{
+		"Approve0": true,
+		"RouteNumberSetup": "",
+		"LensesStr": "RY-YG",
+		"RouteNumber": "2",
+		"Class": "gmod_track_signal",
+		"IsolateSwitches": false,
+		"SignalType": 0,
+		"Name": "20",
+		"ARSOnly": false,
+		"Angles": "{0 90 0}",
+		"Pos": "[-636.7227 -12053.707 -15308.9063]",
+		"Routes": 
+		[
+			
+			{
+				"Emer": false,
+				"NextSignal": "22",
+				"ARSCodes": "078",
+				"Repeater": false,
+				"EnRou": true,
+				"Lights": "1-13-2-24-4",
+				"Switches": "",
+				"RouteName": "",
+				"Manual": false
+			}
+		],
+		"NonAutoStop": false,
+		"Left": false
+	},
+	"33": 
+	{
+		"Approve0": true,
+		"RouteNumberSetup": "",
+		"LensesStr": "RY-YG",
+		"RouteNumber": "2",
+		"Class": "gmod_track_signal",
+		"IsolateSwitches": false,
+		"SignalType": 0,
+		"Name": "22",
+		"ARSOnly": false,
+		"Angles": "{0 90 0}",
+		"Pos": "[5756.2085 -12053.6074 -15309.1055]",
+		"Routes": 
+		[
+			
+			{
+				"Emer": false,
+				"NextSignal": "22R",
+				"ARSCodes": "067",
+				"Repeater": false,
+				"EnRou": true,
+				"Lights": "1-13-2-24-24",
+				"Switches": "",
+				"RouteName": "",
+				"Manual": false
+			}
+		],
+		"NonAutoStop": false,
+		"Left": false
+	},
+	"34": 
+	{
+		"Approve0": true,
+		"RouteNumberSetup": "",
+		"LensesStr": "RY-YG",
+		"RouteNumber": "2",
+		"Class": "gmod_track_signal",
+		"IsolateSwitches": false,
+		"SignalType": 0,
+		"Name": "24",
+		"ARSOnly": false,
+		"Angles": "{0 90 0}",
+		"Pos": "[10063.792 -12053.9063 -15309.2061]",
+		"Routes": 
+		[
+			
+			{
+				"Emer": false,
+				"NextSignal": "26",
+				"ARSCodes": "04",
+				"Manual": false,
+				"EnRou": true,
+				"Lights": "1-13-2-24-4",
+				"RouteName": "",
+				"Switches": "",
+				"Repeater": false
+			}
+		],
+		"NonAutoStop": false,
+		"Left": false
+	},
+	"35": 
+	{
+		"Approve0": true,
+		"RouteNumberSetup": "",
+		"LensesStr": "RGY",
+		"RouteNumber": "2",
+		"Class": "gmod_track_signal",
+		"IsolateSwitches": false,
+		"SignalType": 0,
+		"Name": "22R",
+		"ARSOnly": true,
+		"Angles": "{0 90 0}",
+		"Pos": "[8283.1465 -12053.3926 -15309.3057]",
+		"Routes": 
+		[
+			
+			{
+				"Emer": false,
+				"NextSignal": "24",
+				"ARSCodes": "064",
+				"Manual": false,
+				"EnRou": true,
+				"Lights": "",
+				"RouteName": "",
+				"Switches": "",
+				"Repeater": false
+			}
+		],
+		"NonAutoStop": true,
+		"Left": false
+	},
+	"36": 
+	{
+		"Approve0": true,
+		"RouteNumberSetup": "",
+		"LensesStr": "RY-YG",
+		"RouteNumber": "2",
+		"Class": "gmod_track_signal",
+		"IsolateSwitches": false,
+		"SignalType": 0,
+		"Name": "26",
+		"ARSOnly": false,
+		"Angles": "{0 180 0}",
+		"Pos": "[14063.0059 -8777.0742 -15309.1055]",
+		"Routes": 
+		[
+			
+			{
+				"Emer": false,
+				"NextSignal": "28",
+				"ARSCodes": "04",
+				"Repeater": false,
+				"EnRou": true,
+				"Lights": "1-13-2-24-4",
+				"Switches": "",
+				"RouteName": "",
+				"Manual": false
+			}
+		],
+		"NonAutoStop": false,
+		"Left": false
+	},
+	"37": 
+	{
+		"Approve0": true,
+		"RouteNumberSetup": "",
+		"LensesStr": "RY-YG",
+		"RouteNumber": "2",
+		"Class": "gmod_track_signal",
+		"IsolateSwitches": false,
+		"SignalType": 0,
+		"Name": "28",
+		"ARSOnly": false,
+		"Angles": "{0.9133 184.9211 0}",
+		"Pos": "[14008.168 7645.1855 -15307.5947]",
+		"Routes": 
+		[
+			
+			{
+				"Emer": false,
+				"NextSignal": "30",
+				"ARSCodes": "08",
+				"Repeater": false,
+				"EnRou": true,
+				"Lights": "1-13-2-24-4",
+				"Switches": "",
+				"RouteName": "",
+				"Manual": false
+			}
+		],
+		"NonAutoStop": false,
+		"Left": false
+	},
+	"38": 
+	{
+		"Approve0": true,
+		"RouteNumberSetup": "",
+		"LensesStr": "RY-YG",
+		"RouteNumber": "2",
+		"Class": "gmod_track_signal",
+		"IsolateSwitches": false,
+		"SignalType": 0,
+		"Name": "30",
+		"ARSOnly": false,
+		"Angles": "{0.2349 269.5034 0}",
+		"Pos": "[5879.105 14685.2051 -15309.6582]",
+		"Routes": 
+		[
+			
+			{
+				"Emer": false,
+				"NextSignal": "32",
+				"ARSCodes": "078",
+				"Repeater": false,
+				"EnRou": true,
+				"Lights": "1-13-2-24-4",
+				"Switches": "",
+				"RouteName": "",
+				"Manual": false
+			}
+		],
+		"NonAutoStop": false,
+		"Left": false
+	},
+	"39": 
+	{
+		"Approve0": true,
+		"RouteNumberSetup": "",
+		"LensesStr": "RY-YG",
+		"RouteNumber": "2",
+		"Class": "gmod_track_signal",
+		"IsolateSwitches": true,
+		"SignalType": 0,
+		"Name": "32",
+		"ARSOnly": false,
+		"Angles": "{0 270 0}",
+		"Pos": "[758.4409 14685.4941 -15310.1055]",
+		"Routes": 
+		[
+			
+			{
+				"Emer": false,
+				"NextSignal": "32R",
+				"ARSCodes": "067",
+				"Repeater": false,
+				"EnRou": true,
+				"Lights": "1-13-2-24-24",
+				"Switches": "",
+				"RouteName": "",
+				"Manual": false
+			}
+		],
+		"NonAutoStop": false,
+		"Left": false
+	},
+	"40": 
+	{
+		"Approve0": true,
+		"RouteNumberSetup": "",
+		"LensesStr": "RGY",
+		"RouteNumber": "2",
+		"Class": "gmod_track_signal",
+		"IsolateSwitches": false,
+		"SignalType": 0,
+		"Name": "32R",
+		"ARSOnly": true,
+		"Angles": "{0 270 0}",
+		"Pos": "[-2910.8555 14685.8066 -15310.2061]",
+		"Routes": 
+		[
+			
+			{
+				"Emer": false,
+				"NextSignal": "*",
+				"ARSCodes": "064",
+				"Repeater": false,
+				"EnRou": true,
+				"Lights": "1-12-2-23-3",
+				"RouteName": "",
+				"Switches": "",
+				"Manual": false
+			}
+		],
+		"NonAutoStop": true,
+		"Left": true
+	},
+	"41": 
+	{
+		"Approve0": true,
+		"RouteNumberSetup": "",
+		"LensesStr": "BWRY-GW-M",
+		"RouteNumber": "2",
+		"Class": "gmod_track_signal",
+		"IsolateSwitches": false,
+		"SignalType": 2,
+		"Name": "LE2",
+		"ARSOnly": false,
+		"Angles": "{0 180 0}",
+		"Pos": "[12136.1934 -9022.3174 -14263.8057]",
+		"Routes": 
+		[
+			
+			{
+				"Emer": false,
+				"NextSignal": "LE6",
+				"ARSCodes": "04",
+				"Manual": false,
+				"EnRou": true,
+				"Lights": "3-34-2",
+				"RouteName": "",
+				"Switches": "5+,4+",
+				"Repeater": false
+			},
+			
+			{
+				"Emer": false,
+				"NextSignal": "LEOP",
+				"ARSCodes": "0",
+				"Repeater": false,
+				"EnRou": true,
+				"Lights": "2-1",
+				"Manual": true,
+				"RouteName": "",
+				"Switches": "4-,5-"
+			}
+		],
+		"NonAutoStop": false,
+		"Left": false
+	},
+	"42": 
+	{
+		"Approve0": true,
+		"RouteNumberSetup": "",
+		"LensesStr": "BWRY-GW-M",
+		"RouteNumber": "1",
+		"Class": "gmod_track_signal",
+		"IsolateSwitches": false,
+		"SignalType": 2,
+		"Name": "LE4",
+		"ARSOnly": false,
+		"Angles": "{0 180 0}",
+		"Pos": "[11872.6074 -9017.6484 -14263.8057]",
+		"Routes": 
+		[
+			
+			{
+				"Emer": false,
+				"NextSignal": "LE6",
+				"ARSCodes": "04",
+				"Repeater": false,
+				"EnRou": true,
+				"Lights": "3-34-2",
+				"Switches": "5-,4-",
+				"RouteName": "",
+				"Manual": false
+			}
+		],
+		"NonAutoStop": false,
+		"Left": true
+	},
+	"43": 
+	{
+		"Approve0": true,
+		"RouteNumberSetup": "",
+		"LensesStr": "RY-YG",
+		"RouteNumber": "2",
+		"Class": "gmod_track_signal",
+		"IsolateSwitches": true,
+		"SignalType": 2,
+		"Name": "LE6",
+		"ARSOnly": false,
+		"Angles": "{0 180 0}",
+		"Pos": "[12136.707 -6001.8301 -14263.8057]",
+		"Routes": 
+		[
+			
+			{
+				"Emer": false,
+				"NextSignal": "LE6R",
+				"ARSCodes": "04",
+				"Repeater": false,
+				"EnRou": true,
+				"Lights": "1-13-2-24-24",
+				"Switches": "",
+				"RouteName": "",
+				"Manual": false
+			}
+		],
+		"NonAutoStop": false,
+		"Left": false
+	},
+	"44": 
+	{
+		"Approve0": true,
+		"RouteNumberSetup": "",
+		"LensesStr": "RYG",
+		"RouteNumber": "2",
+		"Class": "gmod_track_signal",
+		"IsolateSwitches": false,
+		"SignalType": 2,
+		"Name": "LE6R",
+		"ARSOnly": true,
+		"Angles": "{0 180 0}",
+		"Pos": "[12136.6074 -4152.8833 -14263.9063]",
+		"Routes": 
+		[
+			
+			{
+				"Emer": false,
+				"NextSignal": "LE8",
+				"ARSCodes": "04",
+				"Repeater": false,
+				"EnRou": true,
+				"Lights": "",
+				"Switches": "",
+				"RouteName": "",
+				"Manual": false
+			}
+		],
+		"NonAutoStop": true,
+		"Left": false
+	},
+	"45": 
+	{
+		"Approve0": true,
+		"RouteNumberSetup": "",
+		"LensesStr": "WR",
+		"RouteNumber": "1",
+		"Class": "gmod_track_signal",
+		"IsolateSwitches": false,
+		"SignalType": 2,
+		"Name": "LEOP",
+		"ARSOnly": false,
+		"Angles": "{0 180 0}",
+		"Pos": "[11872.3926 -5844.2388 -14263.8057]",
+		"Routes": 
+		[
+			
+			{
+				"Emer": false,
+				"NextSignal": "LEDOP",
+				"ARSCodes": "1",
+				"Repeater": false,
+				"EnRou": true,
+				"Lights": "2-1",
+				"Manual": true,
+				"RouteName": ""
+			}
+		],
+		"NonAutoStop": false,
+		"Left": true
+	},
+	"46": 
+	{
+		"Approve0": true,
+		"RouteNumberSetup": "D",
+		"LensesStr": "WRW-W",
+		"RouteNumber": "D",
+		"Class": "gmod_track_signal",
+		"IsolateSwitches": false,
+		"SignalType": 0,
+		"Name": "DE",
+		"ARSOnly": false,
+		"Angles": "{359.167 358.0314 0}",
+		"Pos": "[12132.3594 -12115.8486 -14262.3672]",
+		"Routes": 
+		[
+			
+			{
+				"Emer": false,
+				"NextSignal": "ND",
+				"ARSCodes": "04",
+				"Manual": true,
+				"EnRou": true,
+				"RouteName": "depot1",
+				"Lights": "2-1",
+				"Switches": "",
+				"Repeater": false
+			}
+		],
+		"NonAutoStop": false,
+		"Left": true
+	},
+	"47": 
+	{
+		"Approve0": true,
+		"RouteNumberSetup": "",
+		"LensesStr": "WR",
+		"RouteNumber": "1",
+		"Class": "gmod_track_signal",
+		"IsolateSwitches": false,
+		"SignalType": 2,
+		"Name": "LEDOP",
+		"ARSOnly": false,
+		"Angles": "{0 180 0}",
+		"Pos": "[11872.1934 -1918.0525 -14263.9063]",
+		"Routes": 
+		[
+			
+			{
+				"Emer": false,
+				"NextSignal": "LEDOP",
+				"ARSCodes": "1",
+				"Repeater": false,
+				"EnRou": true,
+				"Lights": "2",
+				"Manual": true,
+				"RouteName": ""
+			}
+		],
+		"NonAutoStop": false,
+		"Left": true
+	},
+	"48": 
+	{
+		"Approve0": true,
+		"RouteNumberSetup": "",
+		"LensesStr": "RW",
+		"RouteNumber": "2",
+		"Class": "gmod_track_signal",
+		"IsolateSwitches": false,
+		"SignalType": 2,
+		"PassOcc": true,
+		"Name": "LED",
+		"ARSOnly": false,
+		"Angles": "{0 0 0}",
+		"Pos": "[12136.6074 -5760.2095 -14263.9063]",
+		"Routes": 
+		[
+			
+			{
+				"Emer": false,
+				"NextSignal": "LETUP1",
+				"ARSCodes": "04",
+				"Manual": true,
+				"EnRou": false,
+				"Switches": "4-,5-",
+				"Lights": "1-2",
+				"RouteName": "LED-1",
+				"Repeater": false
+			},
+			
+			{
+				"Emer": false,
+				"NextSignal": "LETUP2",
+				"ARSCodes": "04",
+				"Repeater": false,
+				"Lights": "1-2",
+				"RouteName": "LED-2",
+				"Switches": "4+,5+",
+				"Manual": true
+			}
+		],
+		"NonAutoStop": false,
+		"Left": true
+	},
+	"49": 
+	{
+		"Approve0": false,
+		"RouteNumberSetup": "",
+		"LensesStr": "WR",
+		"RouteNumber": "2",
+		"Class": "gmod_track_signal",
+		"IsolateSwitches": false,
+		"SignalType": 0,
+		"Name": "PEDOP",
+		"ARSOnly": false,
+		"Angles": "{0 90 0}",
+		"Pos": "[-3688.7646 14684.4014 -15310.2061]",
+		"Routes": 
+		[
+			
+			{
+				"Emer": false,
+				"NextSignal": "PEOP",
+				"ARSCodes": "0",
+				"Repeater": false,
+				"EnRou": true,
+				"Lights": "2",
+				"Switches": "",
+				"RouteName": "",
+				"Manual": false
+			}
+		],
+		"NonAutoStop": false,
+		"Left": false
+	},
+	"50": 
+	{
+		"Approve0": false,
+		"RouteNumberSetup": "",
+		"LensesStr": "WR",
+		"RouteNumber": "2",
+		"Class": "gmod_track_signal",
+		"IsolateSwitches": false,
+		"SignalType": 0,
+		"Name": "PED",
+		"ARSOnly": false,
+		"Angles": "{0 270 0}",
+		"Pos": "[-3827.6238 13676.1934 -15310.1055]",
+		"Routes": 
+		[
+			
+			{
+				"Emer": false,
+				"NextSignal": "PEOP",
+				"ARSCodes": "0",
+				"Manual": false,
+				"EnRou": true,
+				"Lights": "2",
+				"RouteName": "",
+				"Switches": "",
+				"Repeater": false
+			}
+		],
+		"NonAutoStop": false,
+		"Left": false
+	},
+	"51": 
+	{
+		"Approve0": false,
+		"RouteNumberSetup": "",
+		"LensesStr": "WR",
+		"RouteNumber": "3",
+		"Class": "gmod_track_signal",
+		"IsolateSwitches": true,
+		"SignalType": 0,
+		"Name": "PETUP3",
+		"ARSOnly": true,
+		"Angles": "{0 270 0}",
+		"Pos": "[-14618.6592 14314.6934 -15310.7061]",
+		"Routes": 
+		[
+			
+			{
+				"Emer": false,
+				"NextSignal": "PETUP3",
+				"ARSCodes": "04",
+				"Repeater": false,
+				"EnRou": true,
+				"Lights": "",
+				"Switches": "",
+				"RouteName": "",
+				"Manual": false
+			}
+		],
+		"NonAutoStop": true,
+		"Left": true
+	},
+	"52": 
+	{
+		"Approve0": false,
+		"RouteNumberSetup": "",
+		"LensesStr": "WR",
+		"RouteNumber": "2",
+		"Class": "gmod_track_signal",
+		"IsolateSwitches": false,
+		"SignalType": 0,
+		"Name": "PETUP1",
+		"ARSOnly": true,
+		"Angles": "{0 270 0}",
+		"Pos": "[-12514.8525 13677.3047 -15310.2061]",
+		"Routes": 
+		[
+			
+			{
+				"Emer": false,
+				"NextSignal": "PETUP1",
+				"ARSCodes": "24",
+				"Manual": false,
+				"EnRou": true,
+				"Lights": "",
+				"RouteName": "",
+				"Switches": "",
+				"Repeater": false
+			}
+		],
+		"NonAutoStop": true,
+		"Left": true
+	},
+	"53": 
+	{
+		"Approve0": true,
+		"RouteNumberSetup": "23",
+		"LensesStr": "BWR",
+		"RouteNumber": "2",
+		"Class": "gmod_track_signal",
+		"IsolateSwitches": false,
+		"SignalType": 0,
+		"Name": "PE34",
+		"ARSOnly": false,
+		"Angles": "{0 270 0}",
+		"Pos": "[-4232.5425 14685.8066 -15310.2061]",
+		"Routes": 
+		[
+			
+			{
+				"Emer": false,
+				"NextSignal": "PETUP3",
+				"ARSCodes": "04",
+				"Manual": false,
+				"EnRou": true,
+				"Lights": "3-2",
+				"RouteName": "PE-OB3",
+				"Switches": "2-,1+",
+				"Repeater": false
+			},
+			
+			{
+				"Emer": false,
+				"NextSignal": "PETUP2",
+				"ARSCodes": "04",
+				"Manual": false,
+				"EnRou": true,
+				"Lights": "3-2",
+				"Repeater": false,
+				"RouteName": "",
+				"Switches": "2+"
+			}
+		],
+		"NonAutoStop": false,
+		"Left": false
+	},
+	"54": 
+	{
+		"Approve0": false,
+		"RouteNumberSetup": "",
+		"LensesStr": "WR",
+		"RouteNumber": "2",
+		"Class": "gmod_track_signal",
+		"IsolateSwitches": false,
+		"SignalType": 0,
+		"Name": "PETUP2",
+		"ARSOnly": true,
+		"Angles": "{0 270 0}",
+		"Pos": "[-11599.6025 14684.9941 -15310.2061]",
+		"Routes": 
+		[
+			
+			{
+				"Emer": false,
+				"NextSignal": "PETUP2",
+				"ARSCodes": "04",
+				"Repeater": false,
+				"EnRou": true,
+				"Lights": "",
+				"Switches": "",
+				"RouteName": "",
+				"Manual": false
+			}
+		],
+		"NonAutoStop": true,
+		"Left": true
+	},
+	"55": 
+	{
+		"Approve0": true,
+		"RouteNumberSetup": "1",
+		"LensesStr": "WRW",
+		"RouteNumber": "1",
+		"Class": "gmod_track_signal",
+		"IsolateSwitches": false,
+		"SignalType": 0,
+		"Name": "PEG",
+		"ARSOnly": false,
+		"Angles": "{0 90 0}",
+		"Pos": "[-8010.5947 13677.3066 -15310.2061]",
+		"Routes": 
+		[
+			
+			{
+				"Emer": false,
+				"NextSignal": "PE3",
+				"ARSCodes": "04",
+				"Repeater": false,
+				"EnRou": true,
+				"Lights": "2-1",
+				"Switches": "3+",
+				"RouteName": "",
+				"Manual": false
+			},
+			
+			{
+				"Emer": true,
+				"NextSignal": "PE3",
+				"ARSCodes": "04",
+				"Repeater": false,
+				"EnRou": true,
+				"Lights": "2-1",
+				"Manual": false,
+				"Switches": "3+",
+				"RouteName": "PE-SI1"
+			}
+		],
+		"NonAutoStop": false,
+		"Left": true
+	},
+	"56": 
+	{
+		"Approve0": true,
+		"RouteNumberSetup": "2",
+		"LensesStr": "RW",
+		"RouteNumber": "2",
+		"Class": "gmod_track_signal",
+		"IsolateSwitches": false,
+		"SignalType": 0,
+		"PassOcc": true,
+		"Name": "PEL",
+		"ARSOnly": false,
+		"Angles": "{0 90 0}",
+		"Pos": "[-8089.5835 14684.9941 -15310.2061]",
+		"Routes": 
+		[
+			
+			{
+				"Emer": false,
+				"NextSignal": "PEDOP",
+				"ARSCodes": "2",
+				"Repeater": false,
+				"EnRou": true,
+				"Manual": true,
+				"Lights": "1-2",
+				"Switches": "2+",
+				"RouteName": "PEL"
+			}
+		],
+		"NonAutoStop": false,
+		"Left": false
+	},
+	"57": 
+	{
+		"Approve0": false,
+		"Depot": true,
+		"RouteNumberSetup": "12",
+		"LensesStr": "WR-M",
+		"RouteNumber": "",
+		"Class": "gmod_track_signal",
+		"IsolateSwitches": true,
+		"SignalType": 2,
+		"Name": "D1",
+		"ARSOnly": false,
+		"Angles": "{0 0 0}",
+		"Pos": "[1719.9363 -4560.4248 -14263.9063]",
+		"Routes": 
+		[
+			
+			{
+				"Emer": false,
+				"NextSignal": "E",
+				"ARSCodes": "02",
+				"Manual": false,
+				"EnRou": true,
+				"Lights": "2-1",
+				"Switches": "1/1-,1/5+,1/3+",
+				"RouteName": "",
+				"Repeater": false
+			},
+			
+			{
+				"Emer": false,
+				"NextSignal": "ED",
+				"ARSCodes": "02",
+				"Manual": false,
+				"EnRou": true,
+				"Lights": "2-1",
+				"Repeater": false,
+				"Switches": "1/1-,1/5-,1/4-",
+				"RouteName": ""
+			}
+		],
+		"NonAutoStop": true,
+		"Left": false
+	},
+	"58": 
+	{
+		"Approve0": false,
+		"Depot": true,
+		"RouteNumberSetup": "12",
+		"LensesStr": "WR-M",
+		"RouteNumber": "1",
+		"Class": "gmod_track_signal",
+		"IsolateSwitches": true,
+		"SignalType": 2,
+		"Name": "D2",
+		"ARSOnly": false,
+		"Angles": "{0 0 0}",
+		"Pos": "[1984.824 -4610.4399 -14263.8057]",
+		"Routes": 
+		[
+			
+			{
+				"Emer": false,
+				"NextSignal": "E",
+				"ARSCodes": "04",
+				"Repeater": false,
+				"EnRou": true,
+				"Lights": "2-1",
+				"RouteName": "",
+				"Switches": "1/1+,1/5+,1/3+",
+				"Manual": false
+			},
+			
+			{
+				"Emer": false,
+				"NextSignal": "ED",
+				"ARSCodes": "04",
+				"Repeater": false,
+				"EnRou": true,
+				"Lights": "2-1",
+				"Manual": false,
+				"RouteName": "",
+				"Switches": "1/1+,1/5-,1/4-"
+			}
+		],
+		"NonAutoStop": true,
+		"Left": false
+	},
+	"59": 
+	{
+		"Approve0": false,
+		"Depot": true,
+		"RouteNumberSetup": "12",
+		"LensesStr": "WR-M",
+		"RouteNumber": "1",
+		"Class": "gmod_track_signal",
+		"IsolateSwitches": true,
+		"SignalType": 2,
+		"Name": "D3",
+		"ARSOnly": false,
+		"Angles": "{0 0 0}",
+		"Pos": "[2249.2861 -4637.0239 -14264.0059]",
+		"Routes": 
+		[
+			
+			{
+				"Emer": false,
+				"NextSignal": "E",
+				"ARSCodes": "04",
+				"Repeater": false,
+				"EnRou": true,
+				"Lights": "2-1",
+				"RouteName": "",
+				"Switches": "1/2+,1/6-,1/3-",
+				"Manual": false
+			},
+			
+			{
+				"Emer": false,
+				"NextSignal": "ED",
+				"ARSCodes": "04",
+				"Repeater": false,
+				"EnRou": true,
+				"Lights": "2-1",
+				"Manual": false,
+				"RouteName": "",
+				"Switches": "1/2+,1/6+,1/4+"
+			}
+		],
+		"NonAutoStop": true,
+		"Left": true
+	},
+	"60": 
+	{
+		"Approve0": false,
+		"Depot": true,
+		"RouteNumberSetup": "12",
+		"LensesStr": "WR-M",
+		"RouteNumber": "1",
+		"Class": "gmod_track_signal",
+		"IsolateSwitches": true,
+		"SignalType": 2,
+		"Name": "D4",
+		"ARSOnly": false,
+		"Angles": "{0 0 0}",
+		"Pos": "[2514.5039 -4643.4033 -14263.9063]",
+		"Routes": 
+		[
+			
+			{
+				"Emer": false,
+				"NextSignal": "E",
+				"ARSCodes": "02",
+				"Repeater": false,
+				"EnRou": true,
+				"Lights": "2-1",
+				"RouteName": "",
+				"Switches": "1/2-,1/6-,1/3-",
+				"Manual": false
+			},
+			
+			{
+				"Emer": false,
+				"NextSignal": "ED",
+				"ARSCodes": "02",
+				"Repeater": false,
+				"EnRou": true,
+				"Lights": "2-1",
+				"Manual": false,
+				"RouteName": "",
+				"Switches": "1/2-,1/6+,1/4+"
+			}
+		],
+		"NonAutoStop": true,
+		"Left": true
+	},
+	"61": 
+	{
+		"Approve0": true,
+		"Depot": false,
+		"RouteNumberSetup": "12",
+		"LensesStr": "WRW-W",
+		"RouteNumber": "2",
+		"Class": "gmod_track_signal",
+		"IsolateSwitches": true,
+		"SignalType": 1,
+		"Name": "E",
+		"ARSOnly": false,
+		"Angles": "{0.6177 2.0816 0}",
+		"Pos": "[1987.3304 -10140.8154 -14262.251]",
+		"Routes": 
+		[
+			
+			{
+				"Emer": false,
+				"NextSignal": "LE2",
+				"ARSCodes": "04",
+				"Repeater": false,
+				"EnRou": true,
+				"Lights": "2-1-13",
+				"RouteName": "",
+				"Switches": "",
+				"Manual": false
+			}
+		],
+		"NonAutoStop": false,
+		"Left": false
+	},
+	"62": 
+	{
+		"Approve0": true,
+		"Depot": false,
+		"RouteNumberSetup": "12",
+		"LensesStr": "WRW-W",
+		"RouteNumber": "1",
+		"Class": "gmod_track_signal",
+		"IsolateSwitches": true,
+		"SignalType": 1,
+		"Name": "ED",
+		"ARSOnly": false,
+		"Angles": "{0.6075 2.0785 0}",
+		"Pos": "[2253.0847 -10146.6318 -14265.4189]",
+		"Routes": 
+		[
+			
+			{
+				"Emer": false,
+				"NextSignal": "LE4",
+				"ARSCodes": "04",
+				"Manual": false,
+				"EnRou": true,
+				"Lights": "2-1",
+				"Switches": "",
+				"RouteName": "",
+				"Repeater": false
+			}
+		],
+		"NonAutoStop": false,
+		"Left": true
+	},
+	"63": 
+	{
+		"Approve0": false,
+		"RouteNumberSetup": "",
+		"LensesStr": "RYG",
+		"RouteNumber": "",
+		"Class": "gmod_track_signal",
+		"IsolateSwitches": false,
+		"SignalType": 2,
+		"Name": "1337",
+		"ARSOnly": true,
+		"Angles": "{0 172.14 0}",
+		"Pos": "[2468.105 -5419.4287 -14263.9063]",
+		"Routes": 
+		[
+			
+			{
+				"Emer": false,
+				"NextSignal": "*",
+				"ARSCodes": "4",
+				"Repeater": false,
+				"EnRou": true,
+				"Lights": "",
+				"Switches": "",
+				"RouteName": "",
+				"Manual": false
+			}
+		],
+		"NonAutoStop": true,
+		"Left": false
+	},
+	"64": 
+	{
+		"Approve0": true,
+		"RouteNumberSetup": "",
+		"LensesStr": "WRW-W-M",
+		"RouteNumber": "D",
+		"Class": "gmod_track_signal",
+		"IsolateSwitches": false,
+		"SignalType": 1,
+		"Name": "N",
+		"ARSOnly": false,
+		"Angles": "{0 225 0}",
+		"Pos": "[3362.4414 -13041.6699 -14263.7061]",
+		"Routes": 
+		[
+			
+			{
+				"Emer": false,
+				"NextSignal": "DEPO3",
+				"ARSCodes": "04",
+				"Manual": false,
+				"EnRou": true,
+				"Lights": "2-1",
+				"RouteName": "",
+				"Switches": "1/4+,1/6+,1/2+",
+				"Repeater": false
+			},
+			
+			{
+				"Emer": false,
+				"NextSignal": "DEPO2",
+				"ARSCodes": "04",
+				"Manual": false,
+				"EnRou": true,
+				"Lights": "2-1",
+				"Repeater": false,
+				"Switches": "1/4-,1/5-,1/1+",
+				"RouteName": ""
+			},
+			
+			{
+				"Emer": false,
+				"NextSignal": "DEPO1",
+				"ARSCodes": "04",
+				"Manual": false,
+				"EnRou": true,
+				"Lights": "2-1",
+				"RouteName": "",
+				"Switches": "1/4-,1/5-,1/1-",
+				"Repeater": false
+			},
+			
+			{
+				"Emer": false,
+				"NextSignal": "DEPO4",
+				"ARSCodes": "04",
+				"Manual": false,
+				"EnRou": true,
+				"Lights": "2-1",
+				"RouteName": "",
+				"Switches": "1/4+,1/6+,1/2-",
+				"Repeater": false
+			}
+		],
+		"NonAutoStop": false,
+		"Left": false
+	},
+	"65": 
+	{
+		"Approve0": true,
+		"RouteNumberSetup": "",
+		"LensesStr": "WRW-W",
+		"RouteNumber": "3",
+		"Class": "gmod_track_signal",
+		"IsolateSwitches": true,
+		"SignalType": 2,
+		"Double": true,
+		"Name": "DEPO3",
+		"ARSOnly": true,
+		"Angles": "{0 180 0}",
+		"Pos": "[2249.3718 -4922.395 -14264.0059]",
+		"DoubleL": true,
+		"Routes": 
+		[
+			
+			{
+				"Emer": false,
+				"NextSignal": "DEPO3",
+				"ARSCodes": "04",
+				"Manual": false,
+				"EnRou": true,
+				"Lights": "2-1",
+				"Switches": "",
+				"RouteName": "",
+				"Repeater": false
+			}
+		],
+		"NonAutoStop": true,
+		"Left": true
+	},
+	"66": 
+	{
+		"Approve0": true,
+		"RouteNumberSetup": "",
+		"LensesStr": "WRW-W",
+		"RouteNumber": "2",
+		"Class": "gmod_track_signal",
+		"IsolateSwitches": false,
+		"SignalType": 2,
+		"Double": false,
+		"Name": "DEPO2",
+		"ARSOnly": true,
+		"Angles": "{0 180 0}",
+		"Pos": "[1984.8879 -4924.2109 -14263.8057]",
+		"DoubleL": false,
+		"Routes": 
+		[
+			
+			{
+				"Emer": false,
+				"NextSignal": "DEPO2",
+				"ARSCodes": "04",
+				"Manual": false,
+				"EnRou": true,
+				"Lights": "2-1",
+				"Switches": "",
+				"RouteName": "",
+				"Repeater": false
+			}
+		],
+		"NonAutoStop": true,
+		"Left": false
+	},
+	"67": 
+	{
+		"Approve0": true,
+		"RouteNumberSetup": "",
+		"LensesStr": "WRW-W",
+		"RouteNumber": "1",
+		"Class": "gmod_track_signal",
+		"IsolateSwitches": false,
+		"SignalType": 2,
+		"Double": false,
+		"Name": "DEPO1",
+		"ARSOnly": true,
+		"Angles": "{0 180.8822 0}",
+		"Pos": "[1722.542 -4931.6689 -14263.8057]",
+		"DoubleL": false,
+		"Routes": 
+		[
+			
+			{
+				"Emer": false,
+				"NextSignal": "DEPO1",
+				"ARSCodes": "0",
+				"Repeater": false,
+				"EnRou": true,
+				"Lights": "2-1",
+				"RouteName": "",
+				"Switches": "",
+				"Manual": false
+			}
+		],
+		"NonAutoStop": true,
+		"Left": true
+	},
+	"68": 
+	{
+		"Approve0": true,
+		"RouteNumberSetup": "",
+		"LensesStr": "WRW-W",
+		"RouteNumber": "4",
+		"Class": "gmod_track_signal",
+		"IsolateSwitches": false,
+		"SignalType": 2,
+		"Double": false,
+		"Name": "DEPO4",
+		"ARSOnly": true,
+		"Angles": "{0 179.1178 0}",
+		"Pos": "[2511.9119 -4940.4351 -14263.9063]",
+		"DoubleL": false,
+		"Routes": 
+		[
+			
+			{
+				"Emer": false,
+				"NextSignal": "DEPO4",
+				"ARSCodes": "0",
+				"Manual": false,
+				"EnRou": true,
+				"Lights": "2-1",
+				"Switches": "",
+				"RouteName": "",
+				"Repeater": false
+			}
+		],
+		"NonAutoStop": true,
+		"Left": false
+	},
+	"69": 
+	{
+		"Approve0": true,
+		"RouteNumberSetup": "",
+		"LensesStr": "RY-YG",
+		"RouteNumber": "1",
+		"Class": "gmod_track_signal",
+		"IsolateSwitches": false,
+		"SignalType": 0,
+		"Name": "17",
+		"ARSOnly": false,
+		"Angles": "{0 270 0}",
+		"Pos": "[5584.5518 -11789.5938 -15309.0059]",
+		"Routes": 
+		[
+			
+			{
+				"Emer": false,
+				"NextSignal": "19",
+				"ARSCodes": "04",
+				"Manual": false,
+				"EnRou": true,
+				"Lights": "1-13-2-24-4",
+				"RouteName": "",
+				"Switches": "",
+				"Repeater": false
+			}
+		],
+		"NonAutoStop": false,
+		"Left": false
+	},
+	"70": 
+	{
+		"Approve0": true,
+		"RouteNumberSetup": "12",
+		"LensesStr": "WRW",
+		"RouteNumber": "",
+		"Class": "gmod_track_signal",
+		"IsolateSwitches": false,
+		"SignalType": 0,
+		"Name": "PE1",
+		"ARSOnly": false,
+		"Angles": "{0 90 0}",
+		"Pos": "[-10698.3125 14314.6934 -15310.7061]",
+		"Routes": 
+		[
+			
+			{
+				"Emer": false,
+				"NextSignal": "PE1A",
+				"ARSCodes": "04",
+				"Manual": false,
+				"EnRou": true,
+				"Lights": "2-1",
+				"RouteName": "",
+				"Switches": "1-,3-",
+				"Repeater": false
+			},
+			
+			{
+				"Emer": false,
+				"NextSignal": "PE1OP",
+				"ARSCodes": "04",
+				"Repeater": false,
+				"EnRou": true,
+				"Lights": "2",
+				"Manual": true,
+				"RouteName": "",
+				"Switches": "1+,2-"
+			}
+		],
+		"Left": true
+	},
+	"71": 
+	{
+		"Approve0": true,
+		"RouteNumberSetup": "",
+		"LensesStr": "RY-YG",
+		"RouteNumber": "2",
+		"Class": "gmod_track_signal",
+		"IsolateSwitches": false,
+		"SignalType": 0,
+		"Name": "14",
+		"ARSOnly": false,
+		"Angles": "{0.2349 359.5034 0}",
+		"Pos": "[-14721.2881 7689.1362 -14263.3926]",
+		"Routes": 
+		[
+			
+			{
+				"Emer": false,
+				"NextSignal": "16",
+				"ARSCodes": "08",
+				"Manual": false,
+				"EnRou": true,
+				"Lights": "1-13-2-24-4",
+				"RouteName": "",
+				"Switches": "",
+				"Repeater": false
+			}
+		],
+		"NonAutoStop": false,
+		"Left": false
+	},
+	"72": 
+	{
+		"Approve0": true,
+		"RouteNumberSetup": "",
+		"LensesStr": "RY-YG",
+		"RouteNumber": "2",
+		"Class": "gmod_track_signal",
+		"IsolateSwitches": true,
+		"SignalType": 1,
+		"Name": "LE8",
+		"ARSOnly": false,
+		"Angles": "{0 180 0}",
+		"Pos": "[12136.6064 -1991.2427 -14263.9063]",
+		"Routes": 
+		[
+			
+			{
+				"Emer": false,
+				"NextSignal": "10",
+				"ARSCodes": "04",
+				"Manual": false,
+				"EnRou": true,
+				"Lights": "1-13-2-24-4",
+				"RouteName": "",
+				"Switches": "",
+				"Repeater": false
+			}
+		],
+		"NonAutoStop": false,
+		"Left": false
+	},
+	"73": 
+	{
+		"Angles": "{0 271.5767 0}",
+		"Class": "gmod_track_switch",
+		"NotChangePos": true,
+		"Channel": 0,
+		"Name": "2",
+		"Pos": "[-5629.8608 14784.8887 -15316.6689]"
+	},
+	"74": 
+	{
+		"Angles": "{0 269.7491 0}",
+		"Class": "gmod_track_switch",
+		"NotChangePos": true,
+		"Channel": 0,
+		"Name": "1",
+		"Pos": "[-10439.7764 14406.749 -15317.2686]"
+	},
+	"75": 
+	{
+		"Angles": "{0 88.367 0}",
+		"Class": "gmod_track_switch",
+		"NotChangePos": true,
+		"Channel": 0,
+		"Name": "3",
+		"Pos": "[-5584.1895 13579.8652 -15316.6689]"
+	},
+	"76": 
+	{
+		"Angles": "{0 180.6766 0}",
+		"Class": "gmod_track_switch",
+		"NotChangePos": true,
+		"Channel": 0,
+		"Name": "1/4",
+		"Pos": "[2471.4795 -8978.5234 -14272.9688]"
+	},
+	"77": 
+	{
+		"Angles": "{0 3.4967 0}",
+		"Class": "gmod_track_switch",
+		"NotChangePos": true,
+		"Channel": 0,
+		"Name": "1/3",
+		"Pos": "[1816.1863 -8789.5439 -14272.9688]"
+	},
+	"78": 
+	{
+		"Angles": "{0 181.4767 0}",
+		"Class": "gmod_track_switch",
+		"NotChangePos": true,
+		"Channel": 0,
+		"Name": "1/6",
+		"Pos": "[2511.7937 -7175.2939 -14272.9688]"
+	},
+	"79": 
+	{
+		"Angles": "{0 0.5567 0}",
+		"Class": "gmod_track_switch",
+		"NotChangePos": true,
+		"Channel": 0,
+		"Name": "1/5",
+		"Pos": "[1809.7849 -7202.6748 -14272.9688]"
+	},
+	"80": 
+	{
+		"Angles": "{0 179.0566 0}",
+		"Class": "gmod_track_switch",
+		"NotChangePos": true,
+		"Channel": 0,
+		"Name": "1/2",
+		"Pos": "[2447.4575 -6438.9868 -14272.9688]"
+	},
+	"81": 
+	{
+		"Angles": "{0 12.5165 0}",
+		"Class": "gmod_track_switch",
+		"NotChangePos": true,
+		"Channel": 0,
+		"Name": "1/1",
+		"Pos": "[1800.8514 -6544.3823 -14272.9688]"
+	},
+	"82": 
+	{
+		"Angles": "{0 180.8413 0}",
+		"Class": "gmod_track_switch",
+		"NotChangePos": false,
+		"Channel": 1,
+		"Name": "4",
+		"Pos": "[12006.1807 -6960.521 -14272.9688]"
+	},
+	"83": 
+	{
+		"Angles": "{0 182.3813 0}",
+		"Class": "gmod_track_switch",
+		"NotChangePos": false,
+		"Channel": 1,
+		"Name": "5",
+		"Pos": "[12013.0088 -8828.2314 -14272.9688]"
+	},
+	"84": 
+	{
+		"YOffset": 4.717,
+		"Angles": "{0 179.0667 0}",
+		"Class": "gmod_track_signs",
+		"ZOffset": 0,
+		"Left": true,
+		"SignType": 28,
+		"Pos": "[-10522.7637 14314.0322 -15310.8057]"
+	},
+	"85": 
+	{
+		"YOffset": 0.9434,
+		"Angles": "{0 180 0}",
+		"Class": "gmod_track_signs",
+		"ZOffset": 0,
+		"Left": false,
+		"SignType": 16,
+		"Pos": "[-5265.8809 13676.4063 -15310.2061]"
+	},
+	"86": 
+	{
+		"YOffset": 0.9434,
+		"Angles": "{0 180 0}",
+		"Class": "gmod_track_signs",
+		"ZOffset": 0,
+		"Left": false,
+		"SignType": 2,
+		"Pos": "[-77.7917 13675.5938 -15310.1055]"
+	},
+	"87": 
+	{
+		"YOffset": 0.9434,
+		"Angles": "{359.3069 177.4015 0}",
+		"Class": "gmod_track_signs",
+		"ZOffset": 0,
+		"Left": false,
+		"SignType": 4,
+		"Pos": "[6359.3779 14410.0049 -15311.1143]"
+	},
+	"88": 
+	{
+		"YOffset": 0.9434,
+		"Angles": "{0 90 0}",
+		"Class": "gmod_track_signs",
+		"ZOffset": 0,
+		"Left": false,
+		"SignType": 3,
+		"Pos": "[13798.1934 -4359.5874 -15309.1055]"
+	},
+	"89": 
+	{
+		"YOffset": 0.9434,
+		"Angles": "{358.7908 444.8507 0}",
+		"Class": "gmod_track_signs",
+		"ZOffset": 0,
+		"Left": false,
+		"SignType": 2,
+		"Pos": "[13779.2275 -9437.252 -15313.9033]"
+	},
+	"90": 
+	{
+		"YOffset": 0.9434,
+		"Angles": "{359.6935 362.0412 0}",
+		"Class": "gmod_track_signs",
+		"ZOffset": 0,
+		"Left": false,
+		"SignType": 16,
+		"Pos": "[11141.8633 -11787.6016 -15310.7393]"
+	},
+	"91": 
+	{
+		"YOffset": 0.9434,
+		"Angles": "{357.1132 293.3814 0}",
+		"Class": "gmod_track_signs",
+		"ZOffset": 0,
+		"Left": false,
+		"SignType": 18,
+		"Pos": "[-13752.6953 -7815.2397 -15315.3076]"
+	},
+	"92": 
+	{
+		"YOffset": 0.9434,
+		"Angles": "{0 90 0}",
+		"Class": "gmod_track_signs",
+		"ZOffset": 0,
+		"Left": false,
+		"SignType": 31,
+		"Pos": "[11872.0938 6424.1733 -14263.9063]"
+	},
+	"93": 
+	{
+		"YOffset": 0.9434,
+		"Angles": "{0 90 0}",
+		"Class": "gmod_track_signs",
+		"ZOffset": 0,
+		"Left": false,
+		"SignType": 30,
+		"Pos": "[11872.0938 3420.749 -14263.9063]"
+	},
+	"94": 
+	{
+		"YOffset": 0.9434,
+		"Angles": "{0 90 0}",
+		"Class": "gmod_track_signs",
+		"ZOffset": 0,
+		"Left": false,
+		"SignType": 29,
+		"Pos": "[11872.1934 -2246.9451 -14263.9063]"
+	},
+	"95": 
+	{
+		"YOffset": 0.9434,
+		"Angles": "{0 90 0}",
+		"Class": "gmod_track_signs",
+		"ZOffset": 0,
+		"Left": false,
+		"SignType": 33,
+		"Pos": "[11872.0938 615.1144 -14263.9063]"
+	},
+	"96": 
+	{
+		"YOffset": 0.9434,
+		"Angles": "{0 90 0}",
+		"Class": "gmod_track_signs",
+		"ZOffset": 0,
+		"Left": false,
+		"SignType": 28,
+		"Pos": "[11872.3926 -6000.3657 -14263.8057]"
+	},
+	"97": 
+	{
+		"YOffset": 0.9434,
+		"Angles": "{0 270 0}",
+		"Class": "gmod_track_signs",
+		"ZOffset": 0,
+		"Left": false,
+		"SignType": 33,
+		"Pos": "[12136.707 -6623.4629 -14263.8057]"
+	},
+	"98": 
+	{
+		"YOffset": 0.9434,
+		"Angles": "{0 270 0}",
+		"Class": "gmod_track_signs",
+		"ZOffset": 0,
+		"Left": false,
+		"SignType": 32,
+		"Pos": "[12136.6064 -2091.1431 -14263.9063]"
+	},
+	"99": 
+	{
+		"YOffset": 0.9434,
+		"Angles": "{1.541 442.4896 0}",
+		"Class": "gmod_track_signs",
+		"ZOffset": 0,
+		"Left": false,
+		"SignType": 14,
+		"Pos": "[-14597.9814 9373.6436 -14260.335]"
+	},
+	"100": 
+	{
+		"YOffset": 0.9434,
+		"Angles": "{1.5427 98.9203 0}",
+		"Class": "gmod_track_signs",
+		"ZOffset": 0,
+		"Left": false,
+		"SignType": 15,
+		"Pos": "[-14557.2568 -5913.1172 -15304.6035]"
+	},
+	"101": 
+	{
+		"YOffset": 0.9434,
+		"Angles": "{1.9282 169.5943 0}",
+		"Class": "gmod_track_signs",
+		"ZOffset": 0,
+		"Left": false,
+		"SignType": 4,
+		"Pos": "[-8913.291 -11828.9063 -15303.9941]"
+	},
+	"102": 
+	{
+		"YOffset": 0.9434,
+		"Angles": "{0 180 0}",
+		"Class": "gmod_track_signs",
+		"ZOffset": 0,
+		"Left": false,
+		"SignType": 3,
+		"Pos": "[-469.856 -12053.707 -15308.9063]"
+	},
+	"103": 
+	{
+		"YOffset": 0.9434,
+		"Angles": "{0 180 0}",
+		"Class": "gmod_track_signs",
+		"ZOffset": 0,
+		"Left": false,
+		"SignType": 16,
+		"Pos": "[3502.1975 -12053.707 -15309.0059]"
+	},
+	"104": 
+	{
+		"YOffset": 0.9434,
+		"Angles": "{0 180 0}",
+		"Class": "gmod_track_signs",
+		"ZOffset": 0,
+		"Left": false,
+		"SignType": 2,
+		"Pos": "[6027.2041 -12053.4004 -15309.3057]"
+	},
+	"105": 
+	{
+		"YOffset": 0.9434,
+		"Angles": "{0 180 0}",
+		"Class": "gmod_track_signs",
+		"ZOffset": 0,
+		"Left": false,
+		"SignType": 2,
+		"Pos": "[10206.9219 -12053.9063 -15309.2061]"
+	},
+	"106": 
+	{
+		"YOffset": 0.9434,
+		"Angles": "{0 270 0}",
+		"Class": "gmod_track_signs",
+		"ZOffset": 0,
+		"Left": false,
+		"SignType": 5,
+		"Pos": "[14063.0059 -8614.2139 -15309.1055]"
+	},
+	"107": 
+	{
+		"YOffset": 0.9434,
+		"Angles": "{1.1289 276.1828 0}",
+		"Class": "gmod_track_signs",
+		"ZOffset": 0,
+		"Left": false,
+		"SignType": 4,
+		"Pos": "[13976.917 7959.4551 -15307.0605]"
+	},
+	"108": 
+	{
+		"YOffset": 0.9434,
+		"Angles": "{0 360 0}",
+		"Class": "gmod_track_signs",
+		"ZOffset": 0,
+		"Left": false,
+		"SignType": 3,
+		"Pos": "[5716.2783 14686.0059 -15310.0059]"
+	},
+	"109": 
+	{
+		"YOffset": 0.9434,
+		"Angles": "{0 360 0}",
+		"Class": "gmod_track_signs",
+		"ZOffset": 0,
+		"Left": false,
+		"SignType": 16,
+		"Pos": "[3117.7432 14685.4941 -15310.1055]"
+	},
+	"110": 
+	{
+		"YOffset": 0.9434,
+		"Angles": "{0 360 0}",
+		"Class": "gmod_track_signs",
+		"ZOffset": 0,
+		"Left": false,
+		"SignType": 2,
+		"Pos": "[633.9809 14685.4941 -15310.1055]"
+	},
+	"111": 
+	{
+		"YOffset": 0.9434,
+		"Angles": "{0 360 0}",
+		"Class": "gmod_track_signs",
+		"ZOffset": 0,
+		"Left": false,
+		"SignType": 34,
+		"Pos": "[-3602.7063 14684.4014 -15310.2061]"
+	},
+	"112": 
+	{
+		"YOffset": 0.9434,
+		"Angles": "{0 360 0}",
+		"Class": "gmod_track_signs",
+		"ZOffset": 0,
+		"Left": false,
+		"SignType": 17,
+		"Pos": "[-5364.46 14685.707 -15310.2061]"
+	},
+	"113": 
+	{
+		"YOffset": 0.9434,
+		"Angles": "{0 360 0}",
+		"Class": "gmod_track_signs",
+		"ZOffset": 0,
+		"Left": false,
+		"SignType": 16,
+		"Pos": "[-9439.1982 14314.5879 -15310.8057]"
+	},
+	"114": 
+	{
+		"YOffset": 0.9434,
+		"Angles": "{0 360 0}",
+		"Class": "gmod_track_signs",
+		"ZOffset": 0,
+		"Left": false,
+		"SignType": 12,
+		"Pos": "[-14478.8672 14314.6934 -15310.7061]"
+	},
+	"115": 
+	{
+		"YOffset": 0.9434,
+		"Angles": "{0 360 0}",
+		"Class": "gmod_track_signs",
+		"ZOffset": 0,
+		"Left": false,
+		"SignType": 5,
+		"Pos": "[5789.3853 -11789.5938 -15309.0059]"
+	},
+	"Version": 1.1
+}

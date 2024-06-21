@@ -1,0 +1,82 @@
+[
+	{
+		"Type": 6.0,
+		"DistanceToOPV": 85.0,
+		"Angles": "{-0 -90 -10}",
+		"UPPS": true,
+		"Pos": "[12499.4668 6692.3623 6180.0259]",
+		"Model": "models/metrostroi/upps.mdl"
+	},
+	{
+		"Type": 6.0,
+		"DistanceToOPV": 89.0,
+		"Angles": "{-0 -180 0}",
+		"UPPS": true,
+		"Pos": "[-8584.1182 14596.0732 6098.2261]",
+		"Model": "models/metrostroi/upps.mdl"
+	},
+	{
+		"Type": 6.0,
+		"DistanceToOPV": 89.0,
+		"Angles": "{0 0 0}",
+		"UPPS": true,
+		"Pos": "[-3578.1494 15405.9258 6098.2261]",
+		"Model": "models/metrostroi/upps.mdl"
+	},
+	{
+		"Type": 6.0,
+		"DistanceToOPV": 89.0,
+		"Angles": "{-0 -0 -8}",
+		"UPPS": true,
+		"Pos": "[2982.9404 -14245.916 5630.0259]",
+		"Model": "models/metrostroi/upps.mdl"
+	},
+	{
+		"Type": 6.0,
+		"DistanceToOPV": 89.0,
+		"Angles": "{-0 -180 -8}",
+		"UPPS": true,
+		"Pos": "[-2000 -15081.584 5630.0259]",
+		"Model": "models/metrostroi/upps.mdl"
+	},
+	{
+		"Type": 6.0,
+		"DistanceToOPV": 89.0,
+		"Angles": "{0 0 0}",
+		"UPPS": true,
+		"Pos": "[6290.271 14834 5090.4507]",
+		"Model": "models/metrostroi/upps.mdl"
+	},
+	{
+		"Type": 6.0,
+		"DistanceToOPV": 89.0,
+		"Angles": "{0 0 0}",
+		"UPPS": true,
+		"Pos": "[6290.271 15455.4004 5090.4507]",
+		"Model": "models/metrostroi/upps.mdl"
+	},
+	{
+		"Type": 6.0,
+		"DistanceToOPV": 100.0,
+		"Angles": "{0 0 0}",
+		"UPPS": true,
+		"Pos": "[8237.3438 10649.293 4605.1689]",
+		"Model": "models/metrostroi/upps.mdl"
+	},
+	{
+		"Type": 6.0,
+		"DistanceToOPV": 100.0,
+		"Angles": "{0 0 0}",
+		"UPPS": true,
+		"Pos": "[8225.1895 10026.3496 4605.1689]",
+		"Model": "models/metrostroi/upps.mdl"
+	},
+	{
+		"Type": 6.0,
+		"DistanceToOPV": 90.0,
+		"Angles": "{-0 -180 0}",
+		"UPPS": true,
+		"Pos": "[608.8774 14602.3584 5094.7739]",
+		"Model": "models/metrostroi/upps.mdl"
+	}
+]
